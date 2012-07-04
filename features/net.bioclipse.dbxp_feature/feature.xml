@@ -4,7 +4,7 @@
       label="Bioclipse DBXP"
       version="2.5.0.qualifier"
       provider-name="The BiGCaT Team"
-      plugin="net.bioclipse.dbxp">
+      plugin="net.bioclipse.dbXp">
 
    <description>
       Bioclipse DBXP - Interacting with DBXP.
@@ -16,7 +16,7 @@
    </requires>
 
    <plugin
-         id="net.bioclipse.dbxp"
+         id="net.bioclipse.dbXp"
          download-size="0"
          install-size="0"
          version="0.0.0"
