@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="net.bioclipse.dbxp_feature"
+      label="Bioclipse DBXP"
+      version="2.5.0.qualifier"
+      provider-name="The BiGCaT Team"
+      plugin="net.bioclipse.dbxp">
+
+   <description>
+      Bioclipse DBXP - Interacting with DBXP.
+   </description>
+
+   <requires>
+      <import feature="net.bioclipse.core_feature" version="2.4.0" match="greaterOrEqual"/>
+      <import feature="net.bioclipse.rdf_feature" version="2.4.0" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="net.bioclipse.dbxp"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
